@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Joseph\AndroidStudioProjects\04 Android Layout\FrameLayout\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\Joseph\AndroidStudioProjects\04 Android Layout\FrameLayout\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_88b7b7b2af55cdc89e82bf3a755c6daee2b65db0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Joseph\AndroidStudioProjects\04 Android Layout\FrameLayout\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\Joseph\AndroidStudioProjects\04 Android Layout\FrameLayout\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_cb1511fd832a049fa12e8c2ca816f9f896cf1137.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Joseph\AndroidStudioProjects\04 Android Layout\FrameLayout\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\Joseph\AndroidStudioProjects\04 Android Layout\FrameLayout\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_2e361db35a01ebc076fd2b9c14c5b9e831b3f554.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Joseph\AndroidStudioProjects\04 Android Layout\FrameLayout\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\Joseph\AndroidStudioProjects\04 Android Layout\FrameLayout\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.1_d5ee99018386f12e1da2efae47442fe764a7cdfb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Joseph\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\Joseph\AndroidStudioProjects\04 Android Layout\FrameLayout\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_b2d2818379c0b83ec2e0b1aea8094ea213dac0c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Joseph\AndroidStudioProjects\04 Android Layout\FrameLayout\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\Joseph\AndroidStudioProjects\04 Android Layout\FrameLayout\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.1_533f2470a6c1d54fb663113a8e8b6b2217492921.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Joseph\AndroidStudioProjects\04 Android Layout\FrameLayout\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\Joseph\AndroidStudioProjects\04 Android Layout\FrameLayout\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.1_66e26fb7e65d9768fefc0aaea0353ceb7783d004.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Joseph\AndroidStudioProjects\04 Android Layout\FrameLayout\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\Joseph\AndroidStudioProjects\04 Android Layout\FrameLayout\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_a981be94c5ba050c5dafa0247b3260998a26009d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Joseph\AndroidStudioProjects\04 Android Layout\FrameLayout\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\Joseph\AndroidStudioProjects\04 Android Layout\FrameLayout\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.1_2a6a8f9277cfe4b9dc1060999002278d658ac250.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Joseph\AndroidStudioProjects\04 Android Layout\FrameLayout\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\Joseph\AndroidStudioProjects\04 Android Layout\FrameLayout\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_bc2b9888fe50617fdbaeb763bcb1750944555f4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Joseph\AndroidStudioProjects\04 Android Layout\FrameLayout\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Joseph\AndroidStudioProjects\04 Android Layout\FrameLayout\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_cfd26c238d1cafdd33c48a179dd35aa395242440.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Joseph\AndroidStudioProjects\04 Android Layout\FrameLayout\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\Joseph\AndroidStudioProjects\04 Android Layout\FrameLayout\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_1ca0eb02ebfa709e29322a6ddad233fd25a170b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Joseph\AndroidStudioProjects\04 Android Layout\FrameLayout\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Joseph\AndroidStudioProjects\04 Android Layout\FrameLayout\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_42e6e6856c0823bf369a7dd5cb1113d3caf00877.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Joseph\AndroidStudioProjects\04 Android Layout\FrameLayout\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\Joseph\AndroidStudioProjects\04 Android Layout\FrameLayout\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.1_ab86ecb7a0b50f5849ec8df4d925def7f5ff9ef7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Joseph\AndroidStudioProjects\04 Android Layout\FrameLayout\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\Joseph\AndroidStudioProjects\04 Android Layout\FrameLayout\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_fbfdda94485cb6f636ce7678d3bbf2be3a2312b7.jar" />
+    </item>
+
+</items>
